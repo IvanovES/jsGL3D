@@ -3,5 +3,13 @@ jsGL3D
 
 3D graphics library
 
-Here's my attempt at it.
-Nothing complete or usefull.
+Here's my attempt at it. Nothing complete or usefull.
+
+- Shapes (meshes)
+- Groups
+- Point light sources
+- Transformations (translation, rotation, scaling)
+- Coordinate conversions (world to view to perspective to screen)
+- Wireframe drawer (mesh plus axes)
+- Shading (flat and Phong)
+- Primitive generator (cube, sphere, cone, cylinder, disk)
