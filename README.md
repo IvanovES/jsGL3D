@@ -11,5 +11,5 @@ Here's my attempt at it. Nothing complete or usefull.
 - Transformations (translation, rotation, scaling)
 - Coordinate conversions (world to view to perspective to screen)
 - Wireframe drawer (mesh plus axes)
-- Shading (flat and Phong)
+- Shading (flat and Phong, rasterization needs fixes)
 - Primitive generator (cube, sphere, cone, cylinder, disk)
